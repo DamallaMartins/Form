@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 80%;
+    margin: auto;
+}
+
+fieldset {
+    background-color: rgb(231, 231, 231);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div {
+    margin-top: 10px;
+}
+
+legend {
+    font-weight: bold;
+}
